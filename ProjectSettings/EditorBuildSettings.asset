@@ -6,12 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/game sd.unity
+    path: Assets/Scenes/mush_OlayiwolaBalinga.unity
     guid: 815d3ca2ea37c3b458f6e7953dcc6e35
   - enabled: 1
-    path: Assets/Scenes/game sd 2.unity
+    path: Assets/Scenes/lava_OlayiwolaBalinga.unity
     guid: 1e3134ba016ca1f45a07951fe98b296d
   - enabled: 1
-    path: Assets/Scenes/Win screen.unity
+    path: Assets/Scenes/Win screen_OlayiwolaBalinga.unity
     guid: 6663020cee070cd4ba347aac220231a5
   m_configObjects: {}
